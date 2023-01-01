@@ -9,7 +9,7 @@
   Greyt_Coders
 </h1>
 
-<h4 align="center"><em>It is the name of our team on this awesome project we made for an Hackathon.</em></h4>
+<h4 align="center"><em>It is the name of our team on this awesome project we made for a programming Hackathon.</em></h4>
 
 ## Our idea
 
