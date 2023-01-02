@@ -26,7 +26,7 @@ We used Spring's built-in repository to assemble our database classes.
 
 We wanted to include the necessary testing to our product, but this wasn't possible due to time constraints.
 <br><br>Our project, despite being totally functional, still had major issues that we knew needed another approach. Some of them being security flaws accessing the API like, for example, proper encryption to the password.
-<br><br>We also had in mind that we needed to create DTOs to communicate through the endpoints. In addition we wanted to create DAOs as well to make the connection with the database.
+<br><br>We also had in mind that we needed to create DTOs to communicate through the endpoints. In addition we wanted to create DAOs as well to make the connection with the database (despite not being necessary since Spring Boot crud repo already having it it).
 
 ## All technologies and languages used
 
