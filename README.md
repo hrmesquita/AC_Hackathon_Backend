@@ -1,8 +1,8 @@
-# AC_Hackathon_Backend
-
 > **Note**
 > We are no longer working on this project. 
 > This was a backend project to participate on a contest.
+
+# AC_Hackathon_Backend
 
 <br>
 <h1 align="center">
